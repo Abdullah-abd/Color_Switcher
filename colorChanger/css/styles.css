@@ -1,0 +1,34 @@
+
+body{
+    background-color: #cfc7c7;
+}
+.parentcontainer{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+}
+.button{
+   width: 100px;
+   height: 100px;
+   /* display: flexbox; */
+
+}
+
+#grey{
+    background-color: grey;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#white{
+    background-color: #fff;
+}
+
+#blue{
+    background-color: blue;
+}
